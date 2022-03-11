@@ -1,0 +1,83 @@
+ISO3,Region,Income Group,Total,Residence Rural,Residence Urban,Wealth quintile Poorest,Wealth quintile Richest,Data source,Time period
+AGO,SSA,Lower middle income (LM),0.15,0.02,0.22,0.0,0.61,Demographic and Health Survey,2015
+ARG,LAC,Upper middle income (UM),0.39,0.0,0.0,0.0,0.0,Multiple Indicator Cluster Survey,2011
+ARM,ECA,Upper middle income (UM),0.81,0.69,0.89,0.46,0.99,Demographic and Health Survey,2015
+BGD,SA,Lower middle income (LM),0.34,0.3,0.49,0.07,0.75,Multiple Indicator Cluster Survey,2019
+BRB,LAC,High income (H),0.63,0.54,0.68,0.09,0.97,Multiple Indicator Cluster Survey,2012
+BEN,SSA,Low income (L),0.03,0.01,0.06,0.0,0.14,Demographic and Health Survey,2017
+BOL,LAC,Lower middle income (LM),0.11,0.04,0.15,0.0,0.0,EDSA,2016
+BIH,ECA,Upper middle income (UM),0.51,0.43,0.68,0.03,0.95,Multiple Indicator Cluster Survey,2011
+BRA,LAC,Upper middle income (UM),0.82,0.49,0.88,0.86,1.0,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",2018
+BGR,ECA,Upper middle income (UM),0.73,0.65,0.77,0.24,0.98,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,2013
+BFA,SSA,Low income (L),0.01,0.01,0.03,0.01,0.04,Demographic and Health Survey,2010
+CMR,SSA,Lower middle income (LM),0.04,0.0,0.09,0.0,0.22,Multiple Indicator Cluster Survey,2014
+CAF,SSA,Low income (L),0.03,0.01,0.08,0.0,0.15,Multiple Indicator Cluster Survey,2018
+TCD,SSA,Low income (L),0.02,0.01,0.08,0.0,0.09,Multiple Indicator Cluster Survey,2019
+CHL,LAC,High income (H),0.86,0.69,0.88,0.71,0.99,CASEN,2017
+CHN,EAP,Upper middle income (UM),0.62,0.53,0.91,0.0,0.0,CHARLS 2018,2018
+COL,LAC,Upper middle income (UM),0.33,0.04,0.45,0.01,0.98,Demographic and Health Survey,2015
+CRI,LAC,Upper middle income (UM),0.7,0.61,0.74,0.44,0.99,Multiple Indicator Cluster Survey,2018
+CIV,SSA,Lower middle income (LM),0.02,0.0,0.05,0.0,0.13,Multiple Indicator Cluster Survey,2016
+CUB,LAC,Upper middle income (UM),0.05,0.02,0.06,0.16,0.0,Multiple Indicator Cluster Survey,2019
+COD,SSA,Low income (L),0.01,0.0,0.02,0.0,0.03,Multiple Indicator Cluster Survey,2017
+DJI,SSA,Lower middle income (LM),0.04,0.01,0.08,0.01,0.32,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,2012
+DOM,LAC,Upper middle income (UM),0.24,0.09,0.29,0.0,0.78,Multiple Indicator Cluster Survey,2014
+ECU,LAC,Upper middle income (UM),0.4,0.19,0.5,0.0,0.0,ENSANUT,2018
+EGY,MENA,Lower middle income (LM),0.16,0.09,0.27,0.0,0.0,"2015 Household Income, Expenditure and Consumption Survey",2015
+GMB,SSA,Low income (L),0.64,0.46,0.74,0.25,0.93,Multiple Indicator Cluster Survey,2018
+GEO,ECA,Upper middle income (UM),0.84,0.7,0.93,0.46,0.99,Multiple Indicator Cluster Survey,2018
+GHA,SSA,Lower middle income (LM),0.16,0.1,0.25,0.02,0.52,Multiple Indicator Cluster Survey,2017
+GTM,LAC,Upper middle income (UM),0.08,0.02,0.16,0.0,0.43,Demographic and Health Survey,2014
+GNB,SSA,Low income (L),0.02,0.01,0.04,0.0,0.05,Multiple Indicator Cluster Survey,2018
+HTI,LAC,Low income (L),0.18,0.1,0.33,0.0,0.6,Demographic and Health Survey,2016
+IND,SA,Lower middle income (LM),0.07,0.04,0.14,0.0,0.33,Demographic and Health Survey,2015
+IDN,EAP,Lower middle income (LM),0.17,0.09,0.24,0.05,0.44,SUSENAS,2019
+IRQ,MENA,Upper middle income (UM),0.46,0.33,0.53,0.14,0.83,Multiple Indicator Cluster Survey,2018
+ITA,ECA,High income (H),0.63,0.0,0.0,0.0,0.0,Multiscopo sulle famiglie: aspetti della vita quotidiana,2018
+JPN,EAP,High income (H),0.75,0.81,0.74,0.62,0.85,The Japan Household Panel Survey,2018
+JOR,MENA,Upper middle income (UM),0.36,0.33,0.36,0.23,0.72,Demographic and Health Survey,2017
+KEN,SSA,Lower middle income (LM),0.3,0.0,0.22,0.0,0.0,STEP Skills Measurement Household Survey 2013 (Wave 2),2013
+KIR,EAP,Lower middle income (LM),0.5,0.32,0.66,0.12,0.86,Multiple Indicator Cluster Survey,2018
+KGZ,ECA,Lower middle income (LM),0.75,0.69,0.81,0.53,0.89,Multiple Indicator Cluster Survey,2018
+LAO,EAP,Lower middle income (LM),0.01,0.01,0.04,0.0,0.05,Multiple Indicator Cluster Survey,2017
+LSO,SSA,Lower middle income (LM),0.3,0.21,0.5,0.05,0.68,Multiple Indicator Cluster Survey,2018
+MDG,SSA,Low income (L),0.09,0.05,0.24,0.0,0.44,Multiple Indicator Cluster Survey,2018
+MDV,SA,Upper middle income (UM),0.7,0.68,0.74,0.49,0.94,Demographic and Health Survey,2016
+MLI,SSA,Low income (L),0.05,0.03,0.13,0.0,0.21,Multiple Indicator Cluster Survey,2015
+MRT,SSA,Lower middle income (LM),0.03,0.01,0.06,0.0,0.11,Multiple Indicator Cluster Survey,2015
+MEX,LAC,Upper middle income (UM),0.37,0.1,0.47,0.0,0.0,ENSANUT,2018
+MNG,EAP,Lower middle income (LM),0.37,0.13,0.5,0.02,0.94,Multiple Indicator Cluster Survey,2018
+MNE,ECA,Upper middle income (UM),0.8,0.71,0.84,0.43,1.0,0,2018
+MAR,MENA,Lower middle income (LM),0.16,0.11,0.2,0.0,0.0,Morocco Household and Youth Survey 2010,2010
+NAM,SSA,Upper middle income (UM),0.06,0.01,0.14,0.0,0.32,Demographic and Health Survey,2013
+NPL,SA,Low income (L),0.46,0.31,0.54,0.15,0.85,Multiple Indicator Cluster Survey,2076
+NIC,LAC,Lower middle income (LM),0.04,0.0,0.0,0.0,0.0,Nicaragua National Demographic and Health Survey 2011-2012,2011
+NER,SSA,Low income (L),0.02,0.0,0.0,0.0,0.0,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",2014
+NGA,SSA,Lower middle income (LM),0.03,0.0,0.0,0.0,0.0,"General Household Survey, Panel 2018-2019, Wave 4",2018
+PAK,SA,Lower middle income (LM),0.08,0.04,0.18,0.0,0.45,Demographic and Health Survey,2017
+PAN,LAC,High income (H),0.27,0.08,0.4,0.02,0.95,Multiple Indicator Cluster Survey,2013
+PER,LAC,Upper middle income (UM),0.25,0.01,0.33,0.0,0.0,ENDES,2019
+RUS,ECA,Upper middle income (UM),0.88,0.82,0.9,0.88,0.0,"Russia Longitudinal Monitoring Survey, 2018",2018
+LCA,LAC,Upper middle income (UM),0.44,0.44,0.47,0.12,0.0,Multiple Indicator Cluster Survey,2012
+STP,SSA,Lower middle income (LM),0.44,0.37,0.47,0.18,0.75,Multiple Indicator Cluster Survey,2019
+SEN,SSA,Lower middle income (LM),0.05,0.02,0.09,0.01,0.2,Demographic and Health Survey,2017
+SRB,ECA,Upper middle income (UM),0.95,0.94,0.96,0.71,1.0,Multiple Indicator Cluster Survey,2019
+SLE,SSA,Low income (L),0.12,0.03,0.24,0.0,0.38,Multiple Indicator Cluster Survey,2017
+SOM,SSA,Low income (L),0.12,0.0,0.0,0.0,0.0,Somalia High Frequency Survey,2017
+ZAF,SSA,Upper middle income (UM),0.18,0.0,0.0,0.0,0.0,South Africa Living Conditions Survey 2014-15,2014
+SSD,SSA,Low income (L),0.0,0.0,0.01,0.0,0.02,Multiple Indicator Cluster Survey,2010
+LKA,SA,Upper middle income (UM),0.67,0.64,0.85,0.7,0.99,STEP Skills Measurement Household Survey 2012 (Wave 1),2012
+SDN,SSA,Lower middle income (LM),0.03,0.01,0.08,0.0,0.17,Multiple Indicator Cluster Survey,2014
+SUR,LAC,Upper middle income (UM),0.49,0.35,0.56,0.21,0.94,Multiple Indicator Cluster Survey,2018
+TJK,0,Low income (L),0.23,0.19,0.37,0.05,0.44,Demographic and Health Survey,2017
+THA,EAP,Upper middle income (UM),0.68,0.65,0.75,0.42,0.95,Multiple Indicator Cluster Survey,2562
+MKD,ECA,Upper middle income (UM),0.91,0.88,0.93,0.67,1.0,Multiple Indicator Cluster Survey,2018
+TGO,SSA,Low income (L),0.2,0.06,0.47,0.0,0.78,Multiple Indicator Cluster Survey,2017
+TON,EAP,Upper middle income (UM),0.9,0.89,0.94,0.82,0.94,Multiple Indicator Cluster Survey,2019
+TTO,LAC,High income (H),0.42,0.32,0.51,0.02,0.97,Multiple Indicator Cluster Survey,2011
+GBR,ECA,High income (H),0.99,0.0,0.0,0.0,0.0,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",2016
+URY,LAC,High income (H),0.63,0.53,0.64,0.37,0.0,Multiple Indicator Cluster Survey,2012
+UZB,ECA,Lower middle income (LM),0.19,0.16,0.26,0.0,0.69,UNICEF Nutrition Survey 2017,2017
+VNM,EAP,0,0.58,0.0,0.58,0.0,0.0,STEP Skills Measurement Household Survey 2012 (Wave 1),2012
+ZMB,SSA,Lower middle income (LM),0.06,0.02,0.12,0.0,0.28,Demographic and Health Survey,2018
+ZWE,SSA,Lower middle income (LM),0.25,0.16,0.48,0.04,0.6,Multiple Indicator Cluster Survey,2018
