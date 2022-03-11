@@ -1,6 +1,5 @@
 # DataCleaning_PrimaryEducation
 
-
 Based on a sample dataset on access to primary education in 87 countries…
 
 We used common cleaning techniques in Python
