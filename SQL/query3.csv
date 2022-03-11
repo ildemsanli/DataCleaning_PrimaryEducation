@@ -1,0 +1,5 @@
+IncomeGroup,"round(avg(Total),2)","round(avg(ResRural), 2)","round(avg(ResUrban), 2)"
+"High income (H)",0.65,0.37,0.48
+"Upper middle income (UM)",0.54,0.42,0.59
+"Lower middle income (LM)",0.19,0.11,0.26
+"Low income (L)",0.13,0.08,0.20
