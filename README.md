@@ -9,4 +9,3 @@ We then exported our clean table to MySQL and prepared a set of queries to make 
 We used Matplotlib to plot country-level and region-level graphs 
 
 We summarized the process in JIRA and GitHub
-
