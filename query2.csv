@@ -1,0 +1,7 @@
+Region,"round(AVG(Total), 2)","round(avg(Richest)/avg(Poorest),2)"
+SSA,0.12,14.33
+LAC,0.38,3.19
+ECA,0.71,2.00
+SA,0.39,3.06
+EAP,0.51,2.45
+MENA,0.29,4.19
