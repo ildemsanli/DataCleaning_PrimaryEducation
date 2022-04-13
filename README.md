@@ -1,11 +1,35 @@
-# DataCleaning_PrimaryEducation
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-Based on a sample dataset on access to primary education in 87 countries…
+# Data visualization in Streamlit
 
-We used common cleaning techniques in Python
+*Helmi Chaaba & Olivier Masson & Ildem Sanli*
 
-We then exported our clean table to MySQL and prepared a set of queries to make our data speak
+**Data Analytics bootcamp  IronHack Paris, Feb-Apr 22**
 
-We used Matplotlib to plot country-level and region-level graphs 
+## Content
+- [Project Description](#project-description)
+- [Tools](#tools)
+- [Repo structure](#repo-structure)
+- [Links](#links)
 
-We summarized the process in JIRA and GitHub
+## Project description
+
+The goal of this project is to use data wrangling, cleaning, and manipulation techniques using Pandas and analyze the clean dataset using MySQL queries. 
+
+We worked on a dataset on access to primary education in 87 countries.
+
+We used common cleaning techniques in Python.
+
+We then exported our clean table to MySQL and prepared a set of queries to make our data speak.
+
+We used Matplotlib to plot country-level and region-level graphs.
+
+We summarized the process in JIRA and GitHub.
+
+
+## Repo structure
+
+- [Code](./Code): Python code 
+- [Data](./Data): Original and cleaned datasets in CSV format
+- [Presentation](./Presentation): Powerpoint presentation of the project
+- [SQL](./SQL): Queries and images of exported tables
